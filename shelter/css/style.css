@@ -33,7 +33,7 @@ body{
 }
 .start-screen{
 	margin-bottom: 80px;
-	background: url(/img/start-screen-background.jpg);
+	background: url(../img/start-screen-background.jpg);
 	background-size: cover;
 	padding: 0 30px;
 }
@@ -622,7 +622,7 @@ body{
 	text-decoration: none;
 }
 .mail::before{
-	content: url(/img/icon-email.svg);
+	content: url(img/icon-email.svg);
 	position: absolute;
 	top: -5px;
 	left: 0px;
@@ -639,7 +639,7 @@ body{
 	text-decoration: none;
 }
 .phone::before{
-	content: url(/img/icon-phone.svg);
+	content: url(img/icon-phone.svg);
 	position: absolute;
 	top: -5px;
 	left: 0px;
@@ -667,7 +667,7 @@ body{
 }
 
 .boston::before{
-	content: url(/img/icon-marker.svg);
+	content: url(img/icon-marker.svg);
 	position: absolute;
 	top: 5px;
 	left: 0px;
@@ -686,7 +686,7 @@ body{
 }
 
 .london::before{
-	content: url(/img/icon-marker.svg);
+	content: url(img/icon-marker.svg);
 	position: absolute;
 	top: -5px;
 	left: 0px;
