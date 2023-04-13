@@ -1,1 +1,1 @@
-https://Snorlaxida.github.io/Shelter/shelter/index.html
+https://Snorlaxida.github.io/MyShelter/shelter/index.html
