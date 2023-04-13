@@ -267,6 +267,7 @@ body{
 	flex-direction: column;
 	justify-content: space-around;
 	align-items: center;
+	cursor: pointer;
 }
 
 .pop-up{
@@ -404,7 +405,9 @@ body{
 		background: #FDDCC4;
 		border-color: #FDDCC4;
 	}
-
+	.button-link{
+		margin: 0 auto;
+	}
 .pets-button{
 	background: #F1CDB3;
 	border-radius: 100px;
