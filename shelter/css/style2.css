@@ -338,7 +338,7 @@ img{
 	}
 
 	.footer{
-		background: url(/img/footer-background.jpg) no-repeat;
+		background: url(../img/footer-background.jpg) no-repeat;
 		background-size: cover;
 		padding: 0 30px;
 	}
@@ -392,7 +392,7 @@ img{
 		text-decoration: none;
 	}
 	.mail::before{
-		content: url(/img/icon-email.svg);
+		content: url(../img/icon-email.svg);
 		position: absolute;
 		top: -5px;
 		left: 0px;
@@ -409,7 +409,7 @@ img{
 		text-decoration: none;
 	}
 	.phone::before{
-		content: url(/img/icon-phone.svg);
+		content: url(../img/icon-phone.svg);
 		position: absolute;
 		top: -5px;
 		left: 0px;
@@ -437,7 +437,7 @@ img{
 	}
 	
 	.boston::before{
-		content: url(/img/icon-marker.svg);
+		content: url(../img/icon-marker.svg);
 		position: absolute;
 		top: 5px;
 		left: 0px;
@@ -456,7 +456,7 @@ img{
 	}
 	
 	.london::before{
-		content: url(/img/icon-marker.svg);
+		content: url(../img/icon-marker.svg);
 		position: absolute;
 		top: -5px;
 		left: 0px;
